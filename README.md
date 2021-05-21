@@ -20,9 +20,9 @@ It a screen recorder program which will record both your ***voice*** and ***Scre
 - For PyAudio errors in **windows**, please refere stackoverflow solution [here](https://stackoverflow.com/questions/52283840/i-cant-install-pyaudio-on-windows-how-to-solve-error-microsoft-visual-c-14)
 - For PyAudio installation errors in **linux**. You need to follow the below instructions:
 
-```sudo apt-get install portaudio19-dev python-pyaudio```
+    ```sudo apt-get install portaudio19-dev python-pyaudio```
 
-```pip install PyAudio```
+    ```pip install PyAudio```
 
 Most probably the errors will be resolved
 - That's it run the program in the ***cmd*** the screen rocording will be started.
