@@ -45,4 +45,4 @@ If you get any errors😞 regarding **ffmpeg** follow the instructions :
 
 After solving the errors RUN the code ```python ScreenReocrder.py``` it will successfully start screen recording and it will save the final Screen Recording file into your declared path.
 
-If you like and think this is useful repository start using this Screen Recorder and don't forget to ⭐ the repository.
+If you like and think this is useful repository start using this Screen Recorder.
