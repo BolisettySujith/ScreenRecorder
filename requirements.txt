@@ -1,0 +1,10 @@
+DateTime==4.3
+Pillow==8.2.0
+numpy==1.20.3
+opencv-python==4.5.2.52
+cv2-tools==2.4.0
+pywin32==300
+PyWave==0.5.0
+subprocess32==3.5.4
+ffmpeg-normalize==1.22.1
+PyAudio==0.2.11
